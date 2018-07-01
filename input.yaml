@@ -1,0 +1,13 @@
+App:
+  name: SourceCode
+  repo: SourceCode
+  package: SourceCode.zip
+  solution_file: "D:\SourceCode\SourceCode.sln"
+  project_file: "D:\SourceCode\SourceCode.csproj"
+  app_dir: "D:\SourceCode"
+  name1:
+    prop1: prop1
+    prop2: prop2
+  name2:
+    prop3: prop3
+    prop4: prop4
